@@ -1,2 +1,2 @@
-# Qu-n-L-Sinh-Vi-n
+# QuanLySinhVien
 OOP (C++)
