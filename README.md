@@ -1,3 +1,2 @@
-# QuanLySinhVien
-OOP (C++)
-Project được viết bằng ngôn ngữ C++ theo cấu trúc lập trình hướng đối tượng dùng để CRUD sinh viên, tính điểm các môn học, sắp xếp và nhiều chức năng khác.
+# Student Managerment
+OOP (C++) Project is written in C++ language with an object-oriented programming structure used to CRUD students, calculate course scores, sort and many other functions.
